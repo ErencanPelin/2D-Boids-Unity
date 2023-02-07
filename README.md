@@ -9,3 +9,10 @@ Feel free to use this project in any way you want or to adapt it in any way with
 <b>Info</b>
 Boids is a simple AI flocking algorithm to simulate what is similar to a flock of birds. Each individual boid follows 3 laws: Avoidance, Seperation & Alignment.<br>
 Each boid therefore acts on its own, yet they cooperate in a group. BEHOLD! true AI... kind of.. Enjoy the project! :D
+<br><br>
+# Changelog
+In order of latest changes & using semantic versioning.
+
+## [0.0.1]
+### Added
+- True AI
